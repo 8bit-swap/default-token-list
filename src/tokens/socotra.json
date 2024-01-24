@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Wrapped June",
+    "address": "0xDce22197228e8Ae74bC9D07539A29Ea9F6DE372a",
+    "symbol": "WJUNE",
+    "decimals": 18,
+    "chainId": 101003,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x2d00000000000000000000000000000000000000",
+    "symbol": "USDT.e",
+    "decimals": 18,
+    "chainId": 101003,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  }
+
+]
