@@ -9,11 +9,10 @@
   },
   {
     "name": "Tether USD",
-    "address": "0x2d00000000000000000000000000000000000000",
+    "address": "0x2D00000000000000000000000000000000000000",
     "symbol": "USDT.e",
     "decimals": 18,
     "chainId": 101003,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   }
-
 ]
