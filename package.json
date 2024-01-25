@@ -1,6 +1,6 @@
 {
   "name": "@8bit-swap/default-token-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The 8Bit-Swap default token list",
   "main": "build/8bit-swap-default.tokenlist.json",
   "scripts": {
