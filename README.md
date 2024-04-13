@@ -3,7 +3,7 @@
 [![Tests](https://github.com/8bit-swap/token-lists/workflows/Tests/badge.svg)](https://github.com/8bit-swap/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@8bit-swap/default-token-list)](https://unpkg.com/@8bit-swap/default-token-list@latest/)
 
-This NPM module and GitHub repo contains the default token list used in the 8Bit-Swap interface.
+This NPM module and GitHub repo contains the default token list used in the 8-BitSwap interface.
 
 ## Adding a token
 

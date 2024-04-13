@@ -6,7 +6,7 @@ const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 module.exports = function buildList() {
   const parsed = version.split(".");
   const l1List = {
-    name: "8BitSwap Default",
+    name: "8-BitSwap Default",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -15,7 +15,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir", // TODO change
-    keywords: ["8bitswap", "default"],
+    keywords: ["8bitswap", "8-bitswap", "default"],
     tokens: [
       ...socotra
     ]

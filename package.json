@@ -1,15 +1,15 @@
 {
   "name": "@8bit-swap/default-token-list",
-  "version": "0.0.2",
-  "description": "The 8Bit-Swap default token list",
-  "main": "build/8bit-swap-default.tokenlist.json",
+  "version": "0.0.10",
+  "description": "The 8-BitSwap default token list",
+  "main": "build/8-bitswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/8bit-swap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/8-bitswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/8bit-swap-default.tokenlist.json"
+    "build/8-bitswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "keywords": [
     "8bit-swap",
+    "8-bitswap",
     "default",
     "token",
     "list"
@@ -29,7 +30,7 @@
   "homepage": "https://github.com/8bit-swap/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-list-bridge-utils": "^2.2.0",
+    "@uniswap/token-list-bridge-utils": "^2.3.0",
     "@uniswap/token-lists": "^1.0.0-beta.29",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
