@@ -1,5 +1,6 @@
 const { version } = require("../package.json");
 const socotra = require("./tokens/socotra.json");
+const june = require("./tokens/june.json");
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
@@ -17,7 +18,8 @@ module.exports = function buildList() {
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir", // TODO change
     keywords: ["8bitswap", "8-bitswap", "default"],
     tokens: [
-      ...socotra
+      ...socotra,
+      ...june
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
