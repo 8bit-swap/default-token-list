@@ -15,7 +15,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir", // TODO change
+    logoURI: "https://www.8bitswap.io/logo.png",
     keywords: ["8bitswap", "8-bitswap", "default"],
     tokens: [
       ...socotra,
