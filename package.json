@@ -1,6 +1,6 @@
 {
   "name": "@8bit-swap/default-token-list",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The 8-BitSwap default token list",
   "main": "build/8-bitswap-default.tokenlist.json",
   "scripts": {
@@ -30,7 +30,7 @@
   "homepage": "https://github.com/8bit-swap/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-list-bridge-utils": "^2.3.0",
+    "@uniswap/token-list-bridge-utils": "^2.10.0",
     "@uniswap/token-lists": "^1.0.0-beta.29",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",

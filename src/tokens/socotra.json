@@ -2,7 +2,7 @@
   {
     "name": "Wrapped JUNE",
     "address": "0xC984ae20d0Fed3B974959BCbd1721167214CDeD9",
-    "symbol": "WJUNE",
+    "symbol": "wJUNE",
     "decimals": 18,
     "chainId": 101003,
     "logoURI": "https://www.8bitswap.io/assets/0xC984ae20d0Fed3B974959BCbd1721167214CDeD9.png"
